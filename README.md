@@ -1,5 +1,5 @@
 # 𝐅𝐢𝐥𝐞 𝐂𝐥𝐨𝐧𝐢𝐧𝐠𝐗࿐💚
-![logo](https://github.com/Lenx-Snex/Paid-6.8/blob/main/Screenshot_2024-07-01-09-08-15-74.png)
+![logo](https://github.com/Lenx-Snex/Paid-6.8/blob/main/Screenshot_2024-07-01-09-08-15-74.jpg)
 # 𝐂𝐨𝐦𝐦𝐚𝐧𝐝࿐👇
      pkg update && upgrade
      pkg install python
