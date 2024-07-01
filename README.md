@@ -1,14 +1,14 @@
-# DARK LMNx9 -
-# FILE MAKER v3.0
-
-![](https://github.com/LMNx9-JOHNY/FILE_Maker/blob/main/File_v3_demo.jpg)
-
-# Installation :
-    rm -rf FILE_Maker
-    apt update && apt upgrade
-    git clone --depth=1 https://github.com/LMNx9-JOHNY/FILE_Maker
-    cd FILE_Maker
-    python FILE_v3.0.py
-
-
-# Join -> https://t.me/DARK_TEAM_LMNx9
+# 𝐅𝐢𝐥𝐞 𝐂𝐥𝐨𝐧𝐢𝐧𝐠𝐗࿐💚
+# 𝐏𝐀𝐈𝐃 & 𝐖𝐎𝐑𝐊𝐈𝐍𝐆࿐🔥
+![logo](https://github.com/Lenx-Snex/Paid-6.8/blob/main/Screenshot_2024-07-01-09-08-15-74.jpg)
+# 𝐂𝐨𝐦𝐦𝐚𝐧𝐝࿐👇
+     pkg update && upgrade
+     pkg install python
+     pip install requests
+     pip install mechanize
+     pip install bs4
+     pkg install git
+     git clone https://github.com/Lenx-Snex/Paid-6.8
+     cd Paid-6.8
+     python Lenx_Filex.py
+     
